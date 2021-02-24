@@ -1,0 +1,15 @@
+h1 {
+    color: purple;
+}
+
+section {
+    height: 100vh;
+}
+
+div {
+    background-color: lightgray;
+    text-align: center;
+    padding: 5% 0;
+
+    
+}
