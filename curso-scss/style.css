@@ -16,3 +16,13 @@ h1 {
   padding: 5% 0;
   width: 100%;
 }
+
+.cards-container {
+   background-color: red;
+}
+
+.card {
+  background-color: blue;
+  width: 400px;
+  height: 400px;
+}
