@@ -12,8 +12,8 @@ body {
 .hero-title {
   background-color: #a7ccedff;
   text-align: center;
-  padding: 5% 0;
   width: 100%;
+  padding: 5% 0;
 }
 .hero-title h1 {
   color: #304d6dff;
@@ -25,20 +25,32 @@ body {
 .cards-container {
   background-color: pink;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
-  padding: 0 300px;
+  padding: 0 10vw;
 }
 
 .card {
   background-color: aliceblue;
-  width: 400px;
   height: 400px;
+  width: 400px;
   border: solid;
 }
 
 h2 {
   text-align: center;
+}
+
+.advantages-container {
+  display: flex;
+  justify-content: center;
+}
+.advantages-container .advantage {
+  width: 30vw;
+  text-align: center;
+}
+.advantages-container p {
+  padding: 0 15px 15px 15px;
+  font-size: 1.2em;
 }
 
 /*# sourceMappingURL=general.css.map */

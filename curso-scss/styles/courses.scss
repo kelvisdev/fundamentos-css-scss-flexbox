@@ -1,17 +1,16 @@
 .cards-container {
   background-color: pink;
-  display: flex;
-  flex-direction: row;
 
+  display: flex;
   justify-content: space-between;
-  padding: 0 300px;
+  padding: 0 10vw;
 }
 
 .card {
   background-color: aliceblue;
+  height: 400px;
   width: 400px;
 
-  height: 400px;
   border: solid;
 }
 
