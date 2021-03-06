@@ -1,19 +1,21 @@
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 :root {
-    --secondary: #545e75ff;
-    --blue-jeans: #63adf2ff;
-    --baby-blue-eyes: #a7ccedff;
-    --primary: #304d6dff;
-    --air-superiority-blue: #82a0bcff;
+  --secondary: #545e75ff;
+  --blue-jeans: #63adf2ff;
+  --baby-blue-eyes: #a7ccedff;
+  --primary: #304d6dff;
+  --air-superiority-blue: #82a0bcff;
 }
 
 /* h1 {
     color: blueviolet;
 }
-  
+
 h2 {
     text-align: center;
 } */
+
+/*# sourceMappingURL=layout.css.map */
