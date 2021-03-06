@@ -1,0 +1,59 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+:root {
+  --secondary: #545e75ff;
+  --blue-jeans: #63adf2ff;
+  --baby-blue-eyes: #a7ccedff;
+  --primary: #304d6dff;
+  --air-superiority-blue: #82a0bcff;
+}
+
+/* h1 {
+    color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+} */
+.hero {
+  height: 100vh;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+}
+
+.hero-title {
+  background-color: var(--baby-blue-eyes);
+  text-align: center;
+  padding: 5% 0;
+  width: 100%;
+}
+.hero-title h1 {
+  color: var(--primary);
+}
+.hero-title h2 {
+  color: var(--secondary);
+}
+
+.cards-container {
+  background-color: pink;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 300px;
+}
+
+.card {
+  background-color: aliceblue;
+  width: 400px;
+  height: 400px;
+  border: solid;
+}
+
+h2 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=general.css.map */
